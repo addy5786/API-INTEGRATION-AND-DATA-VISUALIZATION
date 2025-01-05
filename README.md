@@ -12,9 +12,9 @@
 
 **Mentor**: Neela Santhosh Kumar
 
+# OUTPUT OF THE TASK
 
-
-
+![OUTPUT](https://github.com/user-attachments/assets/096e252c-01c3-4e73-870e-b714b0bf87c2)
 
 
 # Project Overview: Weather Data Visualization
